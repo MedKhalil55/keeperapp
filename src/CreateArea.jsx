@@ -31,7 +31,8 @@ function handlechange(e){
                     content : ""
                 });
             }
-        }>Add</button>
+
+        }>Add Note</button>
       </form>
     </div>
   );
