@@ -32,7 +32,7 @@ function handlechange(e){
                 });
             }
 
-        }>Add Note</button>
+        }>Add</button>
       </form>
     </div>
   );
